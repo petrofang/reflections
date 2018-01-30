@@ -19,6 +19,9 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	diagrams help to organize your commit history and its branches by visualizing the branch structure. usage:
+	git log --graph --online [branches]
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
