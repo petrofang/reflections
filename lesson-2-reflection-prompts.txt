@@ -20,10 +20,12 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 	diagrams help to organize your commit history and its branches by visualizing the branch structure. usage:
-	git log --graph --online [branches]
+	git log --graph --oneline [branch1 branch2]
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	merged branches combine various commits from separate branches. In our example, we merged the coins branch of the asteroids game into the master branch. It is important to make sure you are in the master branch when you start. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
