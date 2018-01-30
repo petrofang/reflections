@@ -7,8 +7,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
-
+	someone else working on a GitHub project might edit something out from under you or make some other commit that is disruptive to the commit you were trying to work on. In this case you might want to fork a new branch, and perhaps merge it in after other subsequent edits to the master (origin) branch. 
+	
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
