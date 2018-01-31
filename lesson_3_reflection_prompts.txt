@@ -22,7 +22,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Developers might use google drive to edit files simultaneously. it has a handy side-chat and comment features. plus google drive synchronizes with directories on PC, if you are backing up files or creating assets (images, audio files etc) .. however, you would not have much control over the files while you were trying to edit them, and it would be kind of a clusterf*dge
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
