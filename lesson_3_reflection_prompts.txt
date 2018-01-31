@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	you might create a branch in order to work on multiple bugs or features as mentioned before. You might also use a separate branch to act as a branch on github which you would then use to initiate a pull request. A pull request will ask the repository owner to merge your branch into the master.
